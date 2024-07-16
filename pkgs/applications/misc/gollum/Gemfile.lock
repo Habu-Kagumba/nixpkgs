@@ -42,7 +42,7 @@ GEM
       mime-types (>= 1.15)
       rugged (~> 0.99)
     htmlentities (4.3.4)
-    json (2.5.1)
+    json (2.7.2)
     kramdown (2.3.0)
       rexml
     kramdown-parser-gfm (1.1.0)
